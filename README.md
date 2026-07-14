@@ -5,13 +5,12 @@ I'm an editor that works with content creator big & small to make there vesion a
 
 I make software that help fulfill that purpose & to speed up production so I hit deadlines & make better stuff.
 
-I work mostly in Python, C#, HTML & CSS. My favorite thing about coding is taking an idea & seeing it come to life!
+I work mostly in Python, C#, HTML & CSS.
 
 I haven't done much so far (at lest that public) but there are some really fun project to come!
 
 ### Things to know
-- I work hard (maybe a little to hard)
-- I love coffee & tea
+- I love tea
 - I use a Womier RD75 Pro 75% with pre-lubricated POM (Polyoxymethylene) linear switches
 - you are currently breathing
 
