@@ -1,5 +1,5 @@
 # **Howdy Howdy** 👋
-I'm **Aphrofluff**, a Editor & software based in the USA.
+I'm **Aphrofluff**, a Editor & Coder based in the USA.
 
 I'm an editor that works with content creator big & small to make there vesion a reality.
 
